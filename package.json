@@ -20,5 +20,5 @@
   "homepage": "https://github.com/MiJouHsieh/qr-code-component-main#readme",
   "dependencies": {
     "gh-pages": "^4.0.0"
-  },
+  }
 }
